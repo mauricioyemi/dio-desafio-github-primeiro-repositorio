@@ -1,0 +1,13 @@
+Baseado em 4 pilares:
+
+- Decomposição
+- Reconhecimento de padrões
+- Abstração
+- Design de algoritmos
+
+
+
+1. Decomposição: dividir um problema complexo em subproblemas.
+2. Reconhecimento de padrões: Identificar padrões ou tendências (similaridades e diferenças entre os problemas)
+3. Abstração: extrapolar o conceito do problema para uma forma generalista
+4. Design de algoritmos: automatizar e definir passo a passo a solução do problema
